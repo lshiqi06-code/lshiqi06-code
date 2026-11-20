@@ -1,6 +1,9 @@
 # shiqi
 
-**lblus** — Labels Blur, Life Unfolds Slowly。
+**lblus Idea Office｜从想法到上线**<br>
+https://lblus.net · hello@lblus.net
+
+**lblus** — Labels Blur, Life Unfolds Slowly.
 五个词的首字母连起来，就是 lblus。
 
 一间 creative office，也是实验性设计工作室。工作横跨品牌、视觉文化和数字技术。<br>
